@@ -1,0 +1,185 @@
+<resources>
+    <string name="app_name">Awgy</string>
+
+    <string name="menu">Menu</string>
+
+    <string name="oops">Oops</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Annuler</string>
+    <string name="done">Fini</string>
+    <string name="error">Une erreur est survenue</string>
+    <string name="try_again">Veuillez réessayer plus tard</string>
+    <string name="log_out">Log Out</string>
+    <string name="back">Retour</string>
+    <string name="new_instance">Nouveau</string>
+    <string name="you">Vous</string>
+
+    <string name="ago">Il y a %1$@</string>
+    <string name="week_abbr">sem</string>
+    <string name="week">semaine</string>
+    <string name="weeks">semaines</string>
+    <string name="day_abbr">j</string>
+    <string name="day">jour</string>
+    <string name="days">jours</string>
+    <string name="hour_abbr">h</string>
+    <string name="hour">heure</string>
+    <string name="hours">heures</string>
+    <string name="minute_abbr">m</string>
+    <string name="minute">minute</string>
+    <string name="minutes">minutes</string>
+    <string name="seconds_abbr">s</string>
+    <string name="second">seconde</string>
+    <string name="seconds">secondes</string>
+
+    <string name="less_than_a_minute_ago">Il y a moins d\'une minute</string>
+    <string name="yesterday_at">Hier à</string>
+
+    <string name="login_signup">Log In - Sign Up</string>
+    <string name="code">Code</string>
+    <string name="phone_number">Numéro</string>
+
+    <string name="send">Envoyer</string>
+    <string name="sent">Envoyé</string>
+    <string name="seen_by">Vu par</string>
+    <string name="seen_by_all">Vu par Tous</string>
+    <string name="seen">Vu</string>
+    <string name="sending">Envoi en cours</string>
+    <string name="add_a_message">Saisissez un message</string>
+
+    <string name="no_one">Personne</string>
+    <string name="waiting">En attente</string>
+    <string name="please_wait">Veuillez attendre</string>
+    <string name="happening_now">En cours</string>
+
+    <string name="photo">photo</string>
+    <string name="in_common">en common</string>
+    <string name="for_this_hashtag">pour cet Hashtag</string>
+
+    <string name="blocked">Bloqué</string>
+
+    <string name="save">Sauvegarder</string>
+    <string name="settings">Réglages</string>
+
+    <string name="only_you">Seulement vous</string>
+    <string name="image_saved">Image sauvegardée</string>
+
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="terms_of_use">Terms Of Use</string>
+    <string name="verification">Vérification</string>
+    <string name="notifications">Notifications</string>
+    <string name="set_up">Set Up</string>
+    <string name="availability">Disponibilité</string>
+
+    <string name="plus_sign">+</string>
+    <string name="hashtag_symbol">#</string>
+
+    <string name="add">Ajouter</string>
+    <string name="remove">Retirer</string>
+    <string name="removed">Retiré</string>
+    <string name="invite">Inviter</string>
+    <string name="contacts">Contacts</string>
+    <string name="failed_send">Le message n\'a pas pu être envoyé</string>
+    <string name="options">Options</string>
+    <string name="remove_friend">Remove Friend</string>
+    <string name="add_friend">Add Friend</string>
+    <string name="unblock">Unblock</string>
+    <string name="unblocked">Unblocked</string>
+    <string name="undo">Undo</string>
+    <string name="block">Block</string>
+    <string name="rename">Renomer</string>
+    <string name="save_number">Sauvegarder Numéro</string>
+    <string name="warning">Attention</string>
+    <string name="blocked_users">Utilisateurs Bloqués</string>
+    <string name="change_phone_number">Changer de Numéro</string>
+    <string name="delete_account">Supprimer le Compte</string>
+    <string name="vip">VIP</string>
+    <string name="account">Compte</string>
+    <string name="privacy">Privacy</string>
+    <string name="info">Information</string>
+    <string name="not_available">Non Disponible</string>
+    <string name="error_try_again">Une erreur est survenue, veuillez réessayer</string>
+    <string name="available_from">Disponible de</string>
+    <string name="availbale_to">Disponible à</string>
+    <string name="say_not_available">Ou dites, non disponible</string>
+    <string name="invited">Invités</string>
+    <string name="maximum_reached">Maximum Atteint</string>
+    <string name="info_max_reached">Vous pouvez inviter un maximum de %1$d personnes pour le moment.</string>
+
+    <string name="alone">Il n\'y a que vous</string>
+    <string name="speaking_alone">Vous vous parlez à vous même</string>
+    <string name="no_internet">Il semble que vous ne soyez pas connecté à Internet</string>
+
+    <string name="new_awgy">Nouvel Awgy</string>
+    <string name="new_message">Nouveau Message</string>
+    
+    <string name="press_for_new">Pressez la camera pour un nouvel Awgy</string>
+
+    <string name="hashtag">Hashtag</string>
+    <string name="hashtags">Hashtags</string>
+
+    <string name="verify">Vérifier</string>
+    <string name="accept">Accepter</string>
+    <string name="delete">Supprimer</string>
+    <string name="deleted">Supprimé</string>
+    
+    <string name="conditions_changed">Les Conditions ont changé</string>
+    <string name="verif_new_conditions">Parcourons ensemble les nouveaux Terms of Use et Privacy Policy</string>
+    <string name="review">Parcourir</string>
+
+    <string name="announcement">Annonce</string>
+    <string name="details">Détails</string>
+    <string name="description">Description</string>
+
+    <string name="info_single_notification">a bien été comptabilisé(e), mais nous n\'avons pas pu l\'en informer car il/elle n\'utilise pas encore Awgy.\n\nVous devriez lui envoyer ce message:</string>
+    <string name="info_group_notification">ont bien été comptabilisé(e)s, mais nous n\'avons pas pu les en informer car ils/elles n\'utilisent pas encore Awgy.\n\nVous devriez leur envoyer ce message:</string>
+    <string name="notification">#%1$s attend votre photo - %2$d min (Awgy, sur App Store et Google Play)</string>
+    <string name="copy">Copier</string>
+    <string name="copied">Copié dans le presse-papiers</string>
+    <string name="cant_send_messages">Vous ne pouvez pas envoyer de messages</string>
+    <string name="failed_send_message">Le message n\'a pas pu être envoyé</string>
+
+    <string name="awgy_user">%1$d Awg%2$s en common</string>
+    <string name="awgy_hashtag">%1$d Awg%2$s pour cet Hashtag</string>
+
+    <string name="verification_code">Code de Vérification</string>
+    <string name="info_verify_identity">Vérifions votre identité</string>
+    <string name="send_code">Envoyer Code</string>
+
+    <string name="info_login_signup">Veuillez entrer votre numéro de téléphone, en commençant par le code du pays</string>
+
+    <string name="error_phone_number">Veuillez spécifier un numéro de téléphone valable</string>
+    <string name="error_no_code">Veuillez saisir le Code de Vérification</string>
+    <string name="error_reinstall">Une erreur est survenue, veuillez essayer de vous Log In à nouveau. Si l\'erreur persiste, essayez de supprimer et de réinstaller l\'Application</string>
+    <string name="error_no_hashtag">Veuillez spécifier un Hashtag avec un minimum de 3 caractères</string>
+    <string name="error_no_recipients">Veuillez choisir au moins un Destinataire</string>
+    <string name="error_edit_phone_number">Veuillez commencer par modifier votre numéro de télélphone</string>
+
+    <string name="empty_title_stream">Aucun Awgy</string>
+    <string name="empty_message_stream">Ici seront listés les Awgies auxquels vous avez été invité.</string>
+    
+    <string name="empty_title_ongoing">Aucun Awgy en attente</string>
+    <string name="empty_message_ongoing">Lorsqu\'une personne vous envoie un Awgy, ou que vous en lancez un, vous le voyez ici tant que le temps limite n\'est pas écoulé.</string>
+    
+    <string name="empty_title_recipients">Encore personne</string>
+    <string name="empty_message_recipients">Ici seront listées vos connaissances qui utilisent Awgy, classées par popularité. Vous devriez informer vos amis de l\'existence d\'Awgy en en créant un.</string>
+
+    <string name="empty_title_hashtags">Pas encore d\'Hashtag</string>
+    <string name="empty_message_hashtags">Ici seront répertoriés les Hashtags des Awgies auxquels vous avez été convié, classés par popularité.</string>
+
+    <string name="empty_title_hashtag">Aucun Awgy</string>
+    <string name="empty_message_hashtag">Ici seront répertoriés les Awgies que vous avez pour cet Hashtag.</string>
+    
+    <string name="empty_title_user">Aucun Awgy</string>
+    <string name="empty_message_user">Ici seront répertoriés les Awgies en commun.</string>
+    
+    <string name="empty_title_users">Encore personne</string>
+    <string name="empty_message_users">Ici seront listées vos connaissances qui utilisent Awgy, classées par popularité. Vous devriez informer vos amis de l\'existence d\'Awgy en en créant un.</string>
+    
+    <string name="empty_title_blocked">Personne ici</string>
+    <string name="empty_message_blocked">Bloquez les utilisateurs gênants.</string>
+
+    <string name="no_one_on_app">Personne de votre liste de Contacts n\'utilise Awgy pour le moment. Créez un nouvel Awgy pour les en informer</string>
+    <string name="write_message_yourself">Il semble que vous ne puissiez pas envoyer de messages. Proposez à votre ami(e) de consulter www.awgy.com</string>
+    <string name="warning_delete_account">Etes-vous certain de vouloir supprimer le Compte associé à votre numéro de téléphone ? Toutes vos données seront supprimées</string>
+
+</resources>

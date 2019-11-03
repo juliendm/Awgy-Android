@@ -1,0 +1,10 @@
+<resources>
+    <color name="color1">#ffef5b30</color>
+    <color name="color2">#ff474747</color>
+    <color name="color3">#ff1e1e1e</color>
+
+    <color name="color1_08">#ccf15a24</color>
+    <color name="lightGray">#ffa0a0a0</color>
+    <color name="notDoneGray">#ffd0d0d0</color>
+    <color name="backgroundGray">#ffe5e5e5</color>
+</resources>

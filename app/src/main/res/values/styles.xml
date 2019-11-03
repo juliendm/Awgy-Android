@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppThemePopUpClose" parent="AppTheme">
+        <item name="android:homeAsUpIndicator">@drawable/close</item>
+        <item name="colorPrimary">#ff474747</item>
+        <item name="colorAccent">#ff474747</item>
+    </style>
+
+    <style name="AppThemePopUpBack" parent="AppTheme">
+        <item name="colorPrimary">#ff474747</item>
+        <item name="colorAccent">#ff474747</item>
+    </style>
+
+    <style name="SplashTheme" parent="AppTheme">
+        <item name="android:windowBackground">@drawable/splash</item>tem>
+    </style>
+
+    <style name="AppTheme" parent="AppTheme.Base"/>
+
+    <style name="AppTheme.Base" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">#fff15a24</item>
+        <item name="colorPrimaryDark">#ff1e1e1e</item>
+        <item name="colorAccent">#fff15a24</item>
+        <item name="actionBarPopupTheme">@style/ActionBarPopupTheme</item>
+        <item name="android:textAppearanceButton">@style/TextAppearanceButton</item>
+        <item name="actionButtonStyle">@style/ActionButtonStyle</item>
+    </style>
+
+    <style name="ActionBarPopupTheme" parent="Base.ThemeOverlay.AppCompat">
+        <item name="android:textSize">18sp</item>
+        <item name="android:colorBackground">#fff15a24</item>
+    </style>
+
+    <style name="TextAppearanceButton" parent="Base.TextAppearance.AppCompat.Button">
+        <item name="textAllCaps">false</item>
+    </style>
+
+    <style name="ActionButtonStyle" parent="Base.Widget.AppCompat.ActionButton">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="textAllCaps">false</item>
+    </style>
+
+</resources>
